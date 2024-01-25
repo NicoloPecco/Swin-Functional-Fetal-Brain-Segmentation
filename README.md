@@ -18,6 +18,7 @@ Before to start, install the necessary dependencies (see below).
 
 # Before to start
 
+Download the images and pretrain weights from ...
 Change the main path (data_dir) on line 59 of Train.py and line 62 of Test.py
 
 # How to use it
