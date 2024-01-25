@@ -16,192 +16,192 @@
   "tensorImageSize": "3D",
   "test": [
     {
-      "image": "imagesTest/img_RF101_324_34_.nii",
-      "label": "labelsTest/label_RF101_324_34_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF101_324_34_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF101_324_34_.nii"
     },
     {
-      "image": "imagesTest/img_RF101_325_34_.nii",
-      "label": "labelsTest/label_RF101_325_34_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF101_325_34_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF101_325_34_.nii"
     },
     {
-      "image": "imagesTest/img_RF101_326_34_.nii",
-      "label": "labelsTest/label_RF101_326_34_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF101_326_34_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF101_326_34_.nii"
     },
     {
-      "image": "imagesTest/img_RF107_092_37_.nii",
-      "label": "labelsTest/label_RF107_092_37_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF107_092_37_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF107_092_37_.nii"
     },
     {
-      "image": "imagesTest/img_RF107_093_37_.nii",
-      "label": "labelsTest/label_RF107_093_37_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF107_093_37_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF107_093_37_.nii"
     },
     {
-      "image": "imagesTest/img_RF107_094_37_.nii",
-      "label": "labelsTest/label_RF107_094_37_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF107_094_37_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF107_094_37_.nii"
     },
     {
-      "image": "imagesTest/img_RF110_098_24_.nii",
-      "label": "labelsTest/label_RF110_098_24_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF110_098_24_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF110_098_24_.nii"
     },
     {
-      "image": "imagesTest/img_RF110_099_24_.nii",
-      "label": "labelsTest/label_RF110_099_24_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF110_099_24_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF110_099_24_.nii"
     },
     {
-      "image": "imagesTest/img_RF110_100_24_.nii",
-      "label": "labelsTest/label_RF110_100_24_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF110_100_24_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF110_100_24_.nii"
     },
     {
-      "image": "imagesTest/img_RF112_331_32_.nii",
-      "label": "labelsTest/label_RF112_331_32_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF112_331_32_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF112_331_32_.nii"
     },
     {
-      "image": "imagesTest/img_RF112_332_32_.nii",
-      "label": "labelsTest/label_RF112_332_32_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF112_332_32_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF112_332_32_.nii"
     },
     {
-      "image": "imagesTest/img_RF112_333_32_.nii",
-      "label": "labelsTest/label_RF112_333_32_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF112_333_32_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF112_333_32_.nii"
     },
     {
-      "image": "imagesTest/img_RF128_344_33_.nii",
-      "label": "labelsTest/label_RF128_344_33_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF128_344_33_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF128_344_33_.nii"
     },
     {
-      "image": "imagesTest/img_RF128_345_33_.nii",
-      "label": "labelsTest/label_RF128_345_33_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF128_345_33_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF128_345_33_.nii"
     },
     {
-      "image": "imagesTest/img_RF128_346_33_.nii",
-      "label": "labelsTest/label_RF128_346_33_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF128_346_33_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF128_346_33_.nii"
     },
     {
-      "image": "imagesTest/img_RF139_128_35_.nii",
-      "label": "labelsTest/label_RF139_128_35_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF139_128_35_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF139_128_35_.nii"
     },
     {
-      "image": "imagesTest/img_RF139_129_35_.nii",
-      "label": "labelsTest/label_RF139_129_35_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF139_129_35_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF139_129_35_.nii"
     },
     {
-      "image": "imagesTest/img_RF139_130_35_.nii",
-      "label": "labelsTest/label_RF139_130_35_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF139_130_35_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF139_130_35_.nii"
     },
     {
-      "image": "imagesTest/img_RF155_140_28_.nii",
-      "label": "labelsTest/label_RF155_140_28_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF155_140_28_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF155_140_28_.nii"
     },
     {
-      "image": "imagesTest/img_RF155_141_28_.nii",
-      "label": "labelsTest/label_RF155_141_28_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF155_141_28_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF155_141_28_.nii"
     },
     {
-      "image": "imagesTest/img_RF155_142_28_.nii",
-      "label": "labelsTest/label_RF155_142_28_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF155_142_28_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF155_142_28_.nii"
     },
     {
-      "image": "imagesTest/img_RF164_353_29_.nii",
-      "label": "labelsTest/label_RF164_353_29_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF164_353_29_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF164_353_29_.nii"
     },
     {
-      "image": "imagesTest/img_RF164_354_29_.nii",
-      "label": "labelsTest/label_RF164_354_29_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF164_354_29_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF164_354_29_.nii"
     },
     {
-      "image": "imagesTest/img_RF164_355_29_.nii",
-      "label": "labelsTest/label_RF164_355_29_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF164_355_29_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF164_355_29_.nii"
     },
     {
-      "image": "imagesTest/img_RF164_356_29_.nii",
-      "label": "labelsTest/label_RF164_356_29_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF164_356_29_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF164_356_29_.nii"
     },
     {
-      "image": "imagesTest/img_RF170_150_23_.nii",
-      "label": "labelsTest/label_RF170_150_23_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF170_150_23_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF170_150_23_.nii"
     },
     {
-      "image": "imagesTest/img_RF183_381_30_.nii",
-      "label": "labelsTest/label_RF183_381_30_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF183_381_30_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF183_381_30_.nii"
     },
     {
-      "image": "imagesTest/img_RF183_382_30_.nii",
-      "label": "labelsTest/label_RF183_382_30_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF183_382_30_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF183_382_30_.nii"
     },
     {
-      "image": "imagesTest/img_RF183_383_30_.nii",
-      "label": "labelsTest/label_RF183_383_30_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF183_383_30_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF183_383_30_.nii"
     },
     {
-      "image": "imagesTest/img_RF185_432_36_.nii",
-      "label": "labelsTest/label_RF185_432_36_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF185_432_36_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF185_432_36_.nii"
     },
     {
-      "image": "imagesTest/img_RF185_433_36_.nii",
-      "label": "labelsTest/label_RF185_433_36_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF185_433_36_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF185_433_36_.nii"
     },
     {
-      "image": "imagesTest/img_RF185_434_36_.nii",
-      "label": "labelsTest/label_RF185_434_36_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF185_434_36_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF185_434_36_.nii"
     },
     {
-      "image": "imagesTest/img_RF192_160_25_.nii",
-      "label": "labelsTest/label_RF192_160_25_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF192_160_25_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF192_160_25_.nii"
     },
     {
-      "image": "imagesTest/img_RF192_161_25_.nii",
-      "label": "labelsTest/label_RF192_161_25_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF192_161_25_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF192_161_25_.nii"
     },
     {
-      "image": "imagesTest/img_RF192_162_25_.nii",
-      "label": "labelsTest/label_RF192_162_25_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF192_162_25_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF192_162_25_.nii"
     },
     {
-      "image": "imagesTest/img_RF196_169_27_.nii",
-      "label": "labelsTest/label_RF196_169_27_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF196_169_27_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF196_169_27_.nii"
     },
     {
-      "image": "imagesTest/img_RF196_170_27_.nii",
-      "label": "labelsTest/label_RF196_170_27_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF196_170_27_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF196_170_27_.nii"
     },
     {
-      "image": "imagesTest/img_RF196_171_27_.nii",
-      "label": "labelsTest/label_RF196_171_27_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF196_171_27_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF196_171_27_.nii"
     },
     {
-      "image": "imagesTest/img_RF205_438_26_.nii",
-      "label": "labelsTest/label_RF205_438_26_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF205_438_26_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF205_438_26_.nii"
     },
     {
-      "image": "imagesTest/img_RF205_439_26_.nii",
-      "label": "labelsTest/label_RF205_439_26_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF205_439_26_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF205_439_26_.nii"
     },
     {
-      "image": "imagesTest/img_RF205_440_26_.nii",
-      "label": "labelsTest/label_RF205_440_26_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF205_440_26_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF205_440_26_.nii"
     },
     {
-      "image": "imagesTest/img_RF216_184_22_.nii",
-      "label": "labelsTest/label_RF216_184_22_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF216_184_22_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF216_184_22_.nii"
     },
     {
-      "image": "imagesTest/img_RF216_185_22_.nii",
-      "label": "labelsTest/label_RF216_185_22_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF216_185_22_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF216_185_22_.nii"
     },
     {
-      "image": "imagesTest/img_RF241_218_21_.nii",
-      "label": "labelsTest/label_RF241_218_21_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF241_218_21_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF241_218_21_.nii"
     },
     {
-      "image": "imagesTest/img_RF264_250_31_.nii",
-      "label": "labelsTest/label_RF264_250_31_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF264_250_31_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF264_250_31_.nii"
     },
     {
-      "image": "imagesTest/img_RF264_251_31_.nii",
-      "label": "labelsTest/label_RF264_251_31_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF264_251_31_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF264_251_31_.nii"
     },
     {
-      "image": "imagesTest/img_RF264_252_31_.nii",
-      "label": "labelsTest/label_RF264_252_31_.nii"
+      "image": "imagesTest/RF_2016_02364081_img_RF264_252_31_.nii",
+      "label": "labelsTest/RF_2016_02364081_label_RF264_252_31_.nii"
     }
   ],
   "training": [],
