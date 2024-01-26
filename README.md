@@ -10,7 +10,7 @@ This Swin-UNETR has been developed to automatically segment fetal brain from 3D 
   -  A **json** folder which contains two jsons file for training and test;
   -  **Images** and **pretrain weight** can be downloadeed from **doi (to be uploaded)**.
 
-Before to start, install the necessary dependencies (see below).
+Before to start, install the necessary dependencies!
 
 <p align="center">
 <img src="https://github.com/NicoloPecco/Swin-Functional-Fetal-Brain-Segmentation/blob/main/Image_results.png" width="1000" height="650">
