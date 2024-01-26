@@ -28,6 +28,7 @@ Results of Swin-UNETR model and ground truth with fetal rs-fMRI scan.
 - Download the images and pretrain weights from doi (to be uploaded) and:
    - If you want to try our images just download them and place it on the correct folder;
    - If you want to use your own images place it on the correct folder and create a json file with        the new images;
+   - Place the pretrain weight on the 'weigth' folder.
 - Change the main path (data_dir - Insert/your/path) on line 59 of Train.py and line 62 of Test.py
 
 # How to use it
