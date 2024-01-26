@@ -59,7 +59,7 @@ model = SwinUNETR(
     use_checkpoint=True,
 )
 
-data_dir = "/beegfs/scratch/ric.dellarosa/pecco.nicolo/REVISIONS/Test_github/"
+data_dir = "Insert/your/path"
 logdir= os.path.normpath(os.path.join(data_dir,'logdir'))
 json_path = os.path.normpath(os.path.join(data_dir,'json/Test_set.json'))
 
