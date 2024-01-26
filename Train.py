@@ -56,7 +56,7 @@ def main():
     px_dim=(2.25,2.25,3)
     
     # Define paths for running the script
-    data_dir = "/beegfs/scratch/ric.dellarosa/pecco.nicolo/REVISIONS/Test_github/"
+    data_dir = "Insert/your/path/"
     pretrained_path = os.path.normpath(os.path.join(data_dir, 'weight/model_swinvit.pt'))
     logdir= os.path.normpath(os.path.join(data_dir,'logdir'))
     json_path = os.path.normpath(os.path.join(data_dir,'json/Train100.json'))
