@@ -12,6 +12,13 @@ This Swin-UNETR has been developed to automatically segment fetal brain from 3D 
 
 Before to start, install the necessary dependencies (see below).
 
+<p align="center">
+<img src="[https://github.com/NicoloPecco/RS-FetMRI/blob/main/Images/Flowchart.png](https://github.com/NicoloPecco/Swin-Functional-Fetal-Brain-Segmentation/blob/main/Screenshot%202024-01-26%20at%2012.50.22.png)" width="800" height="800">
+</p>
+<p align="center">
+Flowchart of the RS-FetMRI pipeline.
+</p>
+
 # Dependencies
 - We reccomand to use Conda - see [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
 - Create a new conda environment with python 3.10.8 and install the requirements.txt file by using **'conda install --file requirements.txt'**.
