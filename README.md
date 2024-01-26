@@ -16,7 +16,7 @@ Before to start, install the necessary dependencies (see below).
 <img src="[https://github.com/NicoloPecco/RS-FetMRI/blob/main/Images/Flowchart.png](https://github.com/NicoloPecco/Swin-Functional-Fetal-Brain-Segmentation/blob/main/Screenshot%202024-01-26%20at%2012.50.22.png)" width="800" height="800">
 </p>
 <p align="center">
-Flowchart of the RS-FetMRI pipeline.
+Results of Swin-UNETR model and ground truth with fetal rs-fMRI scan.
 </p>
 
 # Dependencies
