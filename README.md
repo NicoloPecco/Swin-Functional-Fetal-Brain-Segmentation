@@ -13,7 +13,7 @@ This Swin-UNETR has been developed to automatically segment fetal brain from 3D 
 Before to start, install the necessary dependencies (see below).
 
 <p align="center">
-<img src="[https://github.com/NicoloPecco/RS-FetMRI/blob/main/Images/Flowchart.png](https://github.com/NicoloPecco/Swin-Functional-Fetal-Brain-Segmentation/blob/main/Screenshot%202024-01-26%20at%2012.50.22.png)" width="800" height="800">
+<img src=https://github.com/NicoloPecco/RS-FetMRI/blob/main/Images/Image_results.png width="800" height="800">
 </p>
 <p align="center">
 Results of Swin-UNETR model and ground truth with fetal rs-fMRI scan.
