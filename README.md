@@ -19,16 +19,14 @@ Before to start, install the necessary dependencies!
 Results of Swin-UNETR model and ground truth with fetal rs-fMRI scan.
 </p>
 
-# Dependencies
-- We reccomand to use Conda - see [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
-- Create a new conda environment with python 3.10.8 and install the requirements.txt file by using **'conda install --file requirements.txt'**.
-
 # Before to start
 
+- We reccomand to use Conda - see [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
+- Create a new conda environment with python 3.10.8 and install the pytorch.yml file.
 - Download the images and pretrain weights from doi (to be uploaded) and:
    - If you want to try our images just download them and place it on the correct folder;
-   - If you want to use your own images place it on the correct folder and create a json file with        the new images;
-   - Place the pretrain weight on the 'weigth' folder.
+   - If you want to use your own images place it on the correct folder and create a json file with the new images;
+   - Place the pretrain weight on the 'weight' folder.
 - Change the main path (data_dir - Insert/your/path) on line 59 of Train.py and line 62 of Test.py
 
 # How to use it
