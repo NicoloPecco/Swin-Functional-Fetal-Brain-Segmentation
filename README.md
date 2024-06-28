@@ -21,11 +21,12 @@ Results of Swin-UNETR model and ground truth with fetal rs-fMRI scan.
 
 - We reccomand to use Conda - see [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
 - Create a new conda environment with python 3.10.8 and install the pytorch.yml file.
-- Download the images and pretrain weights from doi (to be uploaded) and:
+- Download the images and pretrain weights from [here](https://doi.org/10.17632/dyg9dpmgvs.1) and:
    - Place the pretrain weight on the 'weight' folder.
    - If you want to try our images just download them and place it on the correct folder;
    - If you want to use your own images place it on the correct folder and create jsons file with the new images;
 - Change the main path (data_dir - 'Insert/your/path') on line 59 of Train.py and line 62 of Test.py
+-  You can also install a CNN we reccomand the nnUNET. Please see [here](https://github.com/MIC-DKFZ/nnUNet).
 
 # How to use it
 
