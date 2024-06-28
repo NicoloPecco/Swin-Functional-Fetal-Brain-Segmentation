@@ -8,7 +8,7 @@ This Swin-UNETR has been developed to automatically segment fetal brain from 3D 
   - A folder **output** where the output are saved during testing;
   - Images folders: imagesTr and labelsTr (Train and validation images and label as defined in json file), imagesTs and labelsTs (Test images and label)
   -  A **json** folder which contains two jsons file for training and test;
-  -  **Images** and **pretrain weight** can be downloadeed from **doi (to be uploaded)**.
+  -  **Images** and **pretrain weight** can be downloadeed from [here](https://doi.org/10.17632/dyg9dpmgvs.1).
 
 <p align="center">
 <img src="https://github.com/NicoloPecco/Swin-Functional-Fetal-Brain-Segmentation/blob/main/Image_results.png" width="1000" height="650">
@@ -37,5 +37,5 @@ Be sure to work on a visible GPU.
 
 # Citation
 
-To be upload
+Pecco, N., Della Rosa, P. A., Canini, M., Nocera, G., Scifo, P., Cavoretto, P. I., Candiani, M., Falini, A., Castellano, A., & Baldoli, C. (2024). Optimizing performance of transformer-based models for fetal brain MR image segmentation. Radiology: Artificial Intelligence, 0(ja), e230229. https://doi.org/10.1148/ryai.230229
 
